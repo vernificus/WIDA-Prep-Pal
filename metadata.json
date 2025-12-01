@@ -1,0 +1,7 @@
+{
+  "name": "WIDA ACCESS Prep Pal",
+  "description": "An interactive practice tool for elementary students preparing for the WIDA ACCESS assessment, covering Reading, Listening, Speaking, and Writing domains using AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
